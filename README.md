@@ -107,7 +107,6 @@ Before starting the implementation, ensure you have the following prerequisites 
 3. **Python 3.10+**: The core programming language used for this implementation
 4. **Docker**: Required for running Qdrant vector database locally
 5. **UV**: A Python package installer and resolver for dependency management
-6. **Git**: For cloning the repository
 
 ### Setup Instructions
 
